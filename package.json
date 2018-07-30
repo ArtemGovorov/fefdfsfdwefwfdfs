@@ -36,7 +36,7 @@
   },
   "quokka": {
     "babel": {
-      "presets": ["react-app", "react"]
+      "presets": ["env", "react"]
     },
     "plugins": [
       "jsdom-quokka-plugin"
